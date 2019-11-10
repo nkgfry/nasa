@@ -1,0 +1,17 @@
+https://developers.arcgis.com/
+https://api.nasa.gov/
+  Asteroids NeoWs
+  EONET
+  TLE API - https://data.ivanstanojevic.me/api/tle/docs
+  APOD
+
+  Your API key for bieshop777@gmail.com is:
+
+qDqt4wF26CxpppYYbzFUXfv2P4H5dloxXkAO6XUM
+You can start using this key to make web service requests. Simply pass your key in the URL when making a web request. Here's an example:
+
+https://api.nasa.gov/planetary/apod?api_key=qDqt4wF26CxpppYYbzFUXfv2P4H5dloxXkAO6XUM
+For additional support, please contact us. When contacting us, please tell us what API you're accessing and provide the following account details so we can quickly find you:
+
+Account Email: bieshop777@gmail.com
+Account ID: 682c9860-eb7c-44da-ab18-14c20e10969c
